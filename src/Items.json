@@ -1,0 +1,22 @@
+[
+    {
+        "id":1,
+        "Name":"Dish Soap",
+        "Price": 152
+    },
+    {
+        "id":2,
+        "Name":"Dishwasher detergent",
+        "Price": 552
+    },
+    {
+        "id":3,
+        "Name":"Hand soap",
+        "Price": 260
+    },
+    {
+        "id":4,
+        "Name":"Trash bags",
+        "Price": 100
+    }
+]
